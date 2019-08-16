@@ -3,5 +3,7 @@ In this activity, you'll build a compatibility-based "FriendFinder" application 
 You will use Express to handle routing. Make sure you deploy your app to Heroku so other users can fill it out.
 
 
-Check it out on Heroku--
+Check it out on Heroku--  
+
+https://mysterious-brushlands-40464.herokuapp.com/
 
