@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Series of questions to find a friend",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiceCrispyTreat/friendfinder.git"
+  },
+  "author": "ricecrispytreat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiceCrispyTreat/friendfinder/issues"
+  },
+  "homepage": "https://github.com/RiceCrispyTreat/friendfinder#readme"
+}
